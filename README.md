@@ -1,2 +1,2 @@
 ## Demo Video
-![alt text](https://github.com/gauthaman77/Customer-Support-RAG/blob/main/Screen%20Recording%202024-11-28%20094634.mp4)
+![alt text](https://github.com/user-attachments/assets/0b5105e6-e0b9-4b58-8f5e-f77094621742)
